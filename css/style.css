@@ -3,7 +3,7 @@
 }
 .plano-de-fundo {
   /* background-color: #ff7675 */
-  background-image: url("imagem-fundo.jpg");
+  background-image: url("../img/imagem-fundo.jpg");
 }
 .texto-branco {
   color: white;
