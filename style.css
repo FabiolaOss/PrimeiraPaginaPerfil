@@ -1,0 +1,13 @@
+.elemento-no-centro{
+    text-align: center;
+}
+.plano-de-fundo {
+  /* background-color: #ff7675 */
+  background-image: url("imagem-fundo.jpg");
+}
+.texto-branco {
+  color: white;
+}
+.fonte {
+  font-size: 20px;
+}
